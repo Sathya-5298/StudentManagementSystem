@@ -51,7 +51,9 @@ public class Main4 {
 
 	}
 
-	private static void exit() {
+	private static void exit() 
+	{
+		
 		System.exit(0);
 	}
 
