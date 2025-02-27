@@ -1,7 +1,5 @@
 # Student Management System
-
 The goal is to reinforce the understanding of core Java concepts, object oriented programming (OOP), and problem-solving skills. Developed a simple application, implemented classes, and practiced using collections and exception handling.
-
 
 
 ## Authors
